@@ -21,15 +21,9 @@ const Header = () => {
           {/* Logo */}
           <a href="/" className="flex items-center gap-2">
             <div className="flex items-center">
-              <svg viewBox="0 0 40 40" className="w-8 h-8" fill="none">
+              <svg viewBox="0 0 32 32" className="w-7 h-7" fill="none">
                 <path
-                  d="M20 4L4 20l16 16 16-16L20 4z"
-                  stroke="hsl(199, 100%, 50%)"
-                  strokeWidth="2"
-                  fill="none"
-                />
-                <path
-                  d="M20 10L10 20l10 10 10-10L20 10z"
+                  d="M16 4L6 14h6v14h8V14h6L16 4z"
                   fill="hsl(199, 100%, 50%)"
                 />
               </svg>
